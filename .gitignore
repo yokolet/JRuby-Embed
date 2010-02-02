@@ -1,0 +1,12 @@
+TEST-*
+build
+build.xml
+manifest.mf
+nb-configuration.xml
+nbproject
+*.txt
+!header.txt
+target
+dist
+docs
+.DS_Store
